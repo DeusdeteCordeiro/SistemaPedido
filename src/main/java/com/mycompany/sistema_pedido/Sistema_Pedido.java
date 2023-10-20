@@ -13,6 +13,6 @@ import com.mycompany.ferramentas.BancoDeDadosMySql;
 public class Sistema_Pedido {
 
     public static void main(String[] args) {
-        BancoDeDadosMySql.conectar();
+        
     }
 }
